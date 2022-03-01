@@ -1,0 +1,73 @@
+.Actualité {
+	
+	image-rendering: auto;
+	color: ;
+	
+	width: 700px;
+    
+
+}
+
+.Actualité li {
+	display: inline;
+		align-items: center;
+	padding-left: 20px;
+
+	}
+.Actualité h2 {
+
+font-size: 45px;
+font-family: Lora;
+color:white;
+padding-left: 150px;
+
+	}
+
+.Actualité{
+	background-size: cover;
+	}
+
+
+.btn-don {
+	background-color: #FA9E30;
+color: white;
+	padding:10px 10px; 
+	border-radius: 10px;
+	font-family: Helvetica;
+	align-items: center;
+	justify-content: space-between;
+	text-decoration: none;
+	}
+
+.btn-don:hover{
+	background-color: rgb(230, 230, 230);
+	color: white;}
+
+.boutton li {
+		display: inline;
+		align-items: center;
+	padding-left: 200px;
+	padding-top: 250px;
+	text-decoration: none;
+	justify-content: space-between;
+
+	}
+
+		.Actualité{
+	width: 450px;
+background-image: ;
+  align-items: center;
+  padding-left: auto;
+  padding-right: auto;
+  padding-bottom: 75px;
+
+
+}
+
+.Actualité p {
+	font-size: 20px;
+display: inline;
+color: white;
+
+	}
+

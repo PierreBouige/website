@@ -1,0 +1,54 @@
+.avatar {
+
+	
+}
+
+
+
+.familiale h2{
+	font-size: 35px;
+font-family: Lora;
+color: #21325E;
+
+
+	}
+	.familiale{
+	margin-top: 0px;
+display: center;
+font-display: center;
+padding: 50px 50px;
+ padding-left: auto;
+  padding-right: auto;
+  padding-bottom: 75px;
+
+	}
+
+	.Suivre{
+		margin-top: 100px;
+display: center;
+margin-left: 125px;
+
+		}
+
+		.btn-bitch {
+	background-color: #21325E;
+	color: whitesmoke;
+	padding:20px 20px; 
+	border-radius: 15px;
+	font-size: 20px;
+	margin-left: auto;
+
+
+	}
+.btn-bitch:hover{
+	background-color: rgb(230, 230, 230);
+	color: white;
+}
+
+.btn-bitch a{
+	margin-left: auto;
+	color: white;
+	font-family: Lora;
+margin-top: 150px;
+	}
+

@@ -1,0 +1,40 @@
+.btn-blue{
+	background-color: #86C6F4;
+	color: white;
+	padding:20px 20px; 
+	border-radius: 10px;
+	font-family: Helvetica;
+	align-items: center;
+	justify-content: space-between;
+    font-size: 20px;
+	
+}
+
+
+.btn-blue:hover{
+	background-color: rgb(230, 230, 230);
+	color: white;
+
+}
+
+.btn-green{
+
+background-color: #38954D;
+color: white;
+	padding:10px 10px; 
+	border-radius: 10px;
+	font-family: Helvetica;
+
+
+	}
+
+	.btn-green:hover{
+	background-color: rgb(230, 230, 230);
+	color: white;
+
+
+
+
+
+
+
